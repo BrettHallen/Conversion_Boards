@@ -3213,6 +3213,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "Simple breakout board to connect a logic analyser to a DB25 connected device.\n\nPins 1-25 are through connected."
+		(exclude_from_sim no)
+		(at 21.59 105.41 0)
+		(size 60.96 11.43)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "09df6d13-0b59-49e7-be29-7aad22937254")
+	)
 	(junction
 		(at 63.5 64.77)
 		(diameter 0)
