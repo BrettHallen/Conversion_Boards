@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,DB25 Female,DSUB-25_Socket_EdgeMount_P2.77mm,,,,smt,"25-pin D-SUB connector, socket (female), Mounting Hole"
+J2,1,Conn_01x26,PinHeader_2x13_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x26, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J3,1,DB25 Male,DSUB-25_Pins_EdgeMount_P2.77mm,,,,smt,"25-pin D-SUB connector, pins (male), Mounting Hole"

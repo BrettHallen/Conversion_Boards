@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+115.57,-65.29,90.0,top,J1,,,DSUB-25_Socket_EdgeMount_P2.77mm,DB25 Female,smt
+105.9406,-50.048,0.0,top,J2,,,PinHeader_2x13_P2.54mm_Vertical,Conn_01x26,tht
+93.98,-65.283,-90.0,top,J3,,,DSUB-25_Pins_EdgeMount_P2.77mm,DB25 Male,smt
