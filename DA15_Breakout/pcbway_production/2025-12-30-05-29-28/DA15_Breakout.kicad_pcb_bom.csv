@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,DA15 Male,DSUB-15_Pins_EdgeMount_P2.77mm,,,,smt,"15-pin D-SUB connector, pins (male) (low-density/2 columns)"
+J2,1,DA15 Female,DSUB-15_Socket_EdgeMount_P2.77mm,,,,smt,"15-pin D-SUB connector, socket (female) (low-density/2 columns)"
+J3,1,Breakout,PinHeader_2x08_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"

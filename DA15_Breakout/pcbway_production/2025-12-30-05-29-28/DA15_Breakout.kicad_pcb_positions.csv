@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+74.93,-75.045,-90.0,top,J1,,,DSUB-15_Pins_EdgeMount_P2.77mm,DA15 Male,smt
+92.71,-75.045,90.0,top,J2,,,DSUB-15_Socket_EdgeMount_P2.77mm,DA15 Female,smt
+82.55,-66.04,0.0,top,J3,,,PinHeader_2x08_P2.54mm_Vertical,Breakout,tht
