@@ -2266,16 +2266,26 @@
 			(uuid "7bdc9668-05f6-46c9-a29d-514681ce27a6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-40_W15.24mm.step"
-			(hide yes)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 -1.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.step"
+			(offset
+				(xyz 15 0 -1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -180 -0)
 			)
 		)
 	)
