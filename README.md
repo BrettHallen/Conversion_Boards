@@ -1,6 +1,35 @@
 # Conversion Boards
 Various boards to convert from one chip to another.  Unless stated otherwise, they are currently untested.
 
+## [Mean Well GP25A13A-R1B Breakout](/MeanWell_GP25A13A-R1B_PSU)
+A breakout board for the 5-pin DIN plug on this tri-voltage Mean Well PSU.<br>
+
+## Logic Analyser Breakouts
+Breakout boards to simplify connecting various ICs to a logic analyser via Dupoint-style wires:
+- [MOS 6502](/6502_Logic_Analyser_Breakout)
+- [MOS 6510](/6510_Logic_Analyser_Breakout)
+- [Intel 8080](/8080_Logic_Analyser_Breakout)
+- [CDP1802](/CDP1802_Logic_Analyser_Breakout)
+- [Zilog Z80](/Z80_Logic_Analyser_Breakout)
+- [Generic 40-pin](/Logic_Analyser_Breakout_40pin)
+
+## D-sub Breakouts
+Breakout boards for various D-sub type connectors:
+- [DE9](/DE9_Breakout)
+- [DA15](/DA15_Breakout)
+- [DB25](/DB25_Breakout)
+
+## EPROM Converters
+Boards to convert between different ROM/PROM/EPROM types:
+- [2716 to 2732](/2716-to-2732)
+- [2764 to 27128](/2764-to-27128)
+- [2764 to 68764](/2764-to-68764_Write)
+- [68764 to 2764](/68764-to-2764_Read)
+- [2764 to MK36000](/2764-to-MK36000) 
+
+## [DIN Breakout](/DIN_Breakout)
+A breakout board for 5/6/7/8 pin DIN connectors.
+
 ## [SMQD Converter](/SMQD_Converter)
 Idea is to use a surface mount crystal in place of the through-hole crystal.  Why?  Spectrum clones from the former Eastern Bloc tended to use 14MHz crystals which are not easy to come by anymore in through-hole form, but surface mount versions are.
 
