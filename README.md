@@ -21,11 +21,11 @@ Breakout boards for various D-sub type connectors:
 
 ## EPROM Converters
 Boards to convert between different ROM/PROM/EPROM types:
-- [2716 to 2732](/2716-to-2732)
-- [2764 to 27128](/2764-to-27128)
-- [2764 to 68764](/2764-to-68764_Write)
-- [68764 to 2764](/68764-to-2764_Read)
-- [2764 to MK36000](/2764-to-MK36000) 
+- [2716 to 2732](/2716-to-2732) ... switch between two 2KB ROM images
+- [2764 to 27128](/2764-to-27128) ... switch between two 8KB ROM images
+- [2764 to 68764](/2764-to-68764_Write) ... write a 68764 as a 2764
+- [68764 to 2764 for reading](/68764-to-2764_Read) ... read a 68764 as a 2764
+- [2764 to MK36000](/2764-to-MK36000) ... read an MK36000 as a 2764
 
 ## [DIN Breakout](/DIN_Breakout)
 A breakout board for 5/6/7/8 pin DIN connectors.
