@@ -1,0 +1,3 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Height,Manufacturer_Name
+J1,1,Mean Well GP25A13A-R1B,6710801,,671-0801,,tht,"Deltron 8 Pole Right Angle Din Socket Socket, 2A, 100 V ac, Lockable",19.5,DELTRON COMPONENTS
+J2,1,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",,
