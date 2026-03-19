@@ -13,6 +13,11 @@ Breakout boards to simplify connecting various ICs to a logic analyser via Dupoi
 - [Zilog Z80](/Z80_Logic_Analyser_Breakout)
 - [Generic 40-pin](/Logic_Analyser_Breakout_40pin)
 
+YouTube Videos:
+- [Intel 8080](https://youtu.be/iMYuRV3rcPI)
+- [Zilog Z80](https://youtu.be/R_pdPv_npmc)
+- [MOS 6502](https://youtu.be/lU5GjI01oMk)
+
 ## D-sub Breakouts
 Breakout boards for various D-sub type connectors:
 - [DE9](/DE9_Breakout)
