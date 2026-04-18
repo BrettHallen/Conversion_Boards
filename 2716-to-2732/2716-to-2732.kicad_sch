@@ -3441,7 +3441,7 @@
 				)
 			)
 		)
-		(property "Value" "A_{11} Select"
+		(property "Value" "Bank Select"
 			(at 49.53 97.79 0)
 			(effects
 				(font
