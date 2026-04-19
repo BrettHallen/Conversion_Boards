@@ -1,0 +1,3 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+121.35,-70.839338,90.0,top,J1,,,DSUB-15-HD_Socket_Horizontal_P2.29x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm,VGA Out,tht
+111.125,-69.215,0.0,top,J2,,,PinHeader_1x06_P2.54mm_Vertical,RGB In,tht

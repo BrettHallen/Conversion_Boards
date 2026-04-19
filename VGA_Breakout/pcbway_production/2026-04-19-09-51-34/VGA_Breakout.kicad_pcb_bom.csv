@@ -1,0 +1,3 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,VGA Out,DSUB-15-HD_Socket_Horizontal_P2.29x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm,,,,tht,"15-pin D-SUB connector, socket (female), High density (3 columns), Triple Row, Generic, VGA-connector"
+J2,1,RGB In,PinHeader_1x06_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
