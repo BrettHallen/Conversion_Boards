@@ -1,0 +1,3 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+84.612999,-62.738,0.0,top,J1,,,SOIC-14_3.9x8.7mm_P1.27mm,SOIC-14,smt
+80.807999,-55.118,0.0,top,J2,,,DIP-14_W7.62mm,DIP-14,tht
