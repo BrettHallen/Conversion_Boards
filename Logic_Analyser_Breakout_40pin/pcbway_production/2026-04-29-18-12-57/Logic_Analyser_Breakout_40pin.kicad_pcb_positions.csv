@@ -1,0 +1,5 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+64.622892,-39.567749,0.0,top,J1,,,DIP-40_W15.24mm,40pin IC,tht
+61.447892,-39.567749,0.0,top,J2,,,PinHeader_1x20_P2.54mm_Vertical,Analyser Left,tht
+86.212892,-39.567749,0.0,top,J3,,,PinHeader_1x20_P2.54mm_Vertical,Analyser Right,tht
+67.162892,-39.567749,0.0,top,J4,,,DIP-40_W15.24mm_Socket,IC Socket,tht
