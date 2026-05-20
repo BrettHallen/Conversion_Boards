@@ -1,0 +1,5 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+94.37,-94.86,0.0,top,J1,,,PinHeader_1x02_P2.54mm_Vertical,Conn_01x02,tht
+94.37,-79.62,-90.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10KΩ,tht
+97.79,-97.67,90.0,top,U1,,,DIP-28_W15.24mm,27256 Socket,tht
+97.79,-94.86,90.0,top,U2,,,DIP-28_W15.24mm_Socket,27512 ROM,tht
