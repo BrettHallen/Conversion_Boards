@@ -12,6 +12,7 @@ Breakout boards to simplify connecting various ICs to a logic analyser via Dupoi
 - [CDP1802](/CDP1802_Logic_Analyser_Breakout)
 - [Zilog Z80](/Z80_Logic_Analyser_Breakout)
 - [Generic 40-pin](/Logic_Analyser_Breakout_40pin)
+- [DIP-16 breakout](/DIP-16_Breakout)
 
 YouTube Videos:
 - [Intel 8080](https://youtu.be/iMYuRV3rcPI)
@@ -26,11 +27,12 @@ Breakout boards for various D-sub type connectors:
 
 ## EPROM Converters
 Boards to convert between different ROM/PROM/EPROM types:
+- [2364 to 27128](/2364-to-27128) ... for Commodore VIC-20 8KB ROMs (BASIC & KERNAL)
 - [2716 to 2732](/2716-to-2732) ... switch between two 2KB ROM images
 - [2764 to 27128](/2764-to-27128) ... switch between two 8KB ROM images
 - [2764 to 68764](/2764-to-68764_Write) ... write a 68764 as a 2764
-- [68764 to 2764 for reading](/68764-to-2764_Read) ... read a 68764 as a 2764
 - [2764 to MK36000](/2764-to-MK36000) ... read an MK36000 as a 2764
+- [68764 to 2764 for reading](/68764-to-2764_Read) ... read a 68764 as a 2764
 
 ## [DIN Breakout](/DIN_Breakout)
 A breakout board for 5/6/7/8 pin DIN connectors.
