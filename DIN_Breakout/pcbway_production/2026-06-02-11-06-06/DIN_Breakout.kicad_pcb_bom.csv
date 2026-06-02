@@ -1,0 +1,3 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,DIN Socket,SDF80J,,,,tht,
+J2,1,Breakout,PinHeader_1x09_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"
