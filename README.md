@@ -66,3 +66,8 @@ Replacement designs for Soviet-era VM16 key switches.
 26-Jul-2025: Initial PCB tested, requires adjustments
 
 ![Daughterboard & original](/Soviet-Keyswitch-Replacement/IMG_0261.jpeg)
+
+## DIP-64 (1.27mm pitch) Breakout
+A board to bring out the pins of a 64-pin IC with 1.27mm pin-pitch (like the Yamaha V99x8 VDPs) to 2.54mm pin-pitch headers so it can be hooked up for experimenting with similarly-minded 2.54mm pitch stuff.<br>
+
+![DIP-64 breakout 3D](/DIP-64_Breakout/DIP-64_Breakout_3D.png)
