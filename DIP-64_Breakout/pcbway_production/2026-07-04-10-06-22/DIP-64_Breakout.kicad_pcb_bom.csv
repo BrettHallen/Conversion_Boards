@@ -1,0 +1,7 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator
+J1,1,DIP-64 Socket,DIPS1905W50P178L5730H420Q64N,,,,tht,"Generic connector, double row, 02x32, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",
+J2,1,Left,PinHeader_2x32_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x32, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket
+J3,1,Right,PinHeader_2x32_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x32, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket
+J4,1,Decoupling Capacitor,PinHeader_1x02_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket
+J5,1,+5V In,PinHeader_1x01_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket
+J6,1,GND In,PinHeader_1x01_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket
