@@ -2,6 +2,5 @@
 109.125,-62.961,0.0,top,J1,,,DIPS1905W50P178L5730H420Q64N,DIP-64 Socket,tht
 100.0,-51.562,0.0,top,J2,,,PinHeader_2x32_P2.54mm_Vertical,Left,tht
 134.874,-51.562,0.0,top,J3,,,PinHeader_2x32_P2.54mm_Vertical,Right,tht
-118.11,-54.102,90.0,top,J4,,,PinHeader_1x02_P2.54mm_Vertical,Decoupling Capacitor,tht
-112.014,-54.102,0.0,top,J5,,,PinHeader_1x01_P2.54mm_Vertical,+5V In,tht
-126.746,-54.102,0.0,top,J6,,,PinHeader_1x01_P2.54mm_Vertical,GND In,tht
+117.343,-57.404,90.0,top,J4,,,PinHeader_1x02_P2.54mm_Vertical,Decoupling Capacitor,tht
+119.888,-52.324,-90.0,top,J5,,,PinHeader_1x02_P2.54mm_Vertical,Power In,tht
