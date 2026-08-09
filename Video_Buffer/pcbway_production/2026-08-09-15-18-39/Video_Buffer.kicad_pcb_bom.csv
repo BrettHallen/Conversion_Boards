@@ -1,0 +1,6 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator,Sim.Device,Sim.Pins
+J1,1,OUTPUT,PinHeader_1x02_P2.54mm_Vertical,,,,tht,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",connector/pin_header_socket,,
+J2,1,INPUT,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",connector/pin_header_socket,,
+Q1,1,2N3904,TO-92L_HandSolder,,,,tht,"0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92",,NPN,1=E 2=B 3=C
+R1,1,100Ω,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT,,
+R2,1,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,resistor/THT,,

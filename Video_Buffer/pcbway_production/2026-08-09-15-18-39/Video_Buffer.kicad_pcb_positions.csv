@@ -1,0 +1,6 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+97.79,-65.283,180.0,top,J1,,,PinHeader_1x02_P2.54mm_Vertical,OUTPUT,tht
+78.994,-61.214,0.0,top,J2,,,PinHeader_1x03_P2.54mm_Vertical,INPUT,tht
+82.804,-62.484,-90.0,top,Q1,,,TO-92L_HandSolder,2N3904,tht
+94.742,-62.484,180.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,100Ω,tht
+87.122,-65.532,0.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
