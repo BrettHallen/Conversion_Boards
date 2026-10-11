@@ -1,0 +1,5 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+68.365,-49.025,0.0,top,J1,,,DIP-24_18.0mmx34.29mm_W15.24mm,2716,tht
+70.905,-49.025,0.0,top,J2,,,DIP-24_18.0mmx34.29mm_W15.24mm,2732,tht
+81.065,-52.708,-90.0,bottom,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10KΩ,smt
+76.615,-57.915,-90.0,bottom,SW1,,,PinHeader_1x02_P2.54mm_Vertical,Bank Select,tht

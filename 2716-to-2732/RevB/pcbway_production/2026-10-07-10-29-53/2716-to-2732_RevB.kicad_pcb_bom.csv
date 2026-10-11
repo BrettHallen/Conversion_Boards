@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator
+J1,1,2716,DIP-24_18.0mmx34.29mm_W15.24mm,,,,tht,"Generic connector, double row, 02x12, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",
+J2,1,2732,DIP-24_18.0mmx34.29mm_W15.24mm,,,,tht,"Generic connector, double row, 02x12, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",
+R1,1,10KΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded
+SW1,1,Bank Select,PinHeader_1x02_P2.54mm_Vertical,,,,tht,Single Pole Single Throw (SPST) switch,
