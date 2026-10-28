@@ -1,0 +1,13 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator,Sim.Device,Sim.Pins
+C1,1,10µF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded,,
+C2,1,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,smt,Unpolarized capacitor,SMD_2terminal_chip_molded,,
+J1,1,+5V,Solder Pad 5x2.5mm,,,,smt,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
+J2,1,V_{IN},Solder Pad 5x2.5mm,,,,smt,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
+J3,1,V_{OUT},Solder Pad 5x2.5mm,,,,smt,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
+"J4, J5",2,GND,Solder Pad 5x2.5mm,,,,smt,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
+J6,1,GND Joint F,Solder Pad 21.5x2.5mm,,,,smt,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
+J7,1,GND Joint B,Solder Pad 21.5x2.5mm,,,,smt,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
+Q1,1,MMBT2222A,SOT-23_Handsoldering,,,,smt,"600mA Ic, 40V Vce, NPN Transistor, SOT-23",,NPN,1=B 2=E 3=C
+R1,1,2.2KΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,,
+R2,1,3.3KΩ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,,
+R3,1,750Ω,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,SMD_2terminal_chip_molded,,

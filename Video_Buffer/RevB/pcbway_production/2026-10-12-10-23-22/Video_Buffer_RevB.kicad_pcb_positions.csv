@@ -1,0 +1,14 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+99.0,-59.3125,-90.0,top,C1,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10µF,smt
+98.8625,-56.1,0.0,top,C2,,,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,100nF,smt
+87.5,-55.6,0.0,top,J1,,,Solder Pad 5x2.5mm,+5V,smt
+87.5,-58.6,0.0,top,J2,,,Solder Pad 5x2.5mm,V_{IN},smt
+103.6,-58.85,0.0,top,J3,,,Solder Pad 5x2.5mm,V_{OUT},smt
+87.5,-61.6,0.0,top,J4,,,Solder Pad 5x2.5mm,GND,smt
+103.5,-61.6,0.0,top,J5,,,Solder Pad 5x2.5mm,GND,smt
+89.0,-64.6,0.0,top,J6,,,Solder Pad 21.5x2.5mm,GND Joint F,smt
+89.0,-64.6,0.0,bottom,J7,,,Solder Pad 21.5x2.5mm,GND Joint B,smt
+95.3,-58.1,90.0,top,Q1,,,SOT-23_Handsoldering,MMBT2222A,smt
+91.75,-56.6,-90.0,top,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2.2KΩ,smt
+91.75,-61.1,-90.0,top,R2,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,3.3KΩ,smt
+95.25,-62.1,180.0,top,R3,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,750Ω,smt
